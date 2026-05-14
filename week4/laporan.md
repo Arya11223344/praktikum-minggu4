@@ -10,10 +10,12 @@ nslookup merupakan sebuah perintah atau alat yang digunakan untuk memperoleh ser
 ![Hasil](../assets/image/g1.png)
 
 2. Buka Command Prompt (cmd), lalu ketik perintah "nslookup -type=NS mit.edu" dan tekan ENTER. Perintah ini digunakan untuk menampilkan daftar Name Server (NS) yang menangani domain tersebut.
+![Hasil](../assets/image/g2.png)
  
 3. Buka Command Prompt (cmd), kemudian ketik perintah "nslookup www.aiit.or.kr
  bitsy.mit.edu" dan tekan ENTER. Perintah ini digunakan untuk meminta informasi alamat IP domain www.aiit.or.kr
  dengan menggunakan server DNS bitsy.mit.edu sebagai sumber pencarian.
+![Hasil](../assets/image/g3.png)
 
 ## Pertanyaan
 1. Mencari IP server web di Asia
